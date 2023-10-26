@@ -1,0 +1,33 @@
+{
+  "fields": {
+    "description": "The description of the issue",
+    "issuetype": {
+      "avatarId": 10315,
+      "description": "Functionality or a feature expressed as a user goal.",
+      "hierarchyLevel": 0,
+      "iconUrl": "https://megacorp.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/10315?size=medium",
+      "id": "10001",
+      "name": "Story",
+      "self": "https://megacorp.atlassian.net/rest/api/2/issuetype/10001",
+      "subtask": false
+    },
+    "status": {
+      "description": "",
+      "iconUrl": "https://megacorp.atlassian.net/",
+      "id": "10001",
+      "name": "Done",
+      "self": "https://megacorp.atlassian.net/rest/api/2/status/10001",
+      "statusCategory": {
+        "colorName": "green",
+        "id": 3,
+        "key": "done",
+        "name": "Done",
+        "self": "https://megacorp.atlassian.net/rest/api/2/statuscategory/3"
+      }
+    },
+    "summary": "Issue title"
+  },
+  "id": "93728",
+  "key": "UNIQ-2020",
+  "self": "https://megacorp.atlassian.net/rest/api/2/issue/93728"
+}
